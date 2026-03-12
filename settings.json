@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "noobie-the-ultimate-bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "elmo3aqeen.aternos.me",
+    "port": 49066,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 2000,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "samman is the ultimate mc player",
         "I like to play Minecraft!"
       ]
     },
